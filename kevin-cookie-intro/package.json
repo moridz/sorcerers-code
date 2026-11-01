@@ -1,0 +1,1 @@
+{"name":"kevin-cookie-intro","version":"1.0.0","private":true,"scripts":{"start":"remotion studio src/index.ts --port=3000","typecheck":"tsc --noEmit"},"dependencies":{"@remotion/cli":"4.0.539","remotion":"4.0.539","react":"19.2.0","react-dom":"19.2.0"},"devDependencies":{"typescript":"5.9.3","@types/react":"19.2.2","@types/react-dom":"19.2.2"}}
