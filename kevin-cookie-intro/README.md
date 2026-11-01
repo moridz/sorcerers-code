@@ -19,5 +19,8 @@ Press Space to play; scrub the timeline to inspect individual frames.
 npm run typecheck
 ```
 
-The wordmark enters in the first 1.7 seconds, the tagline follows at 2.2 seconds,
-and the final brand card holds through the end. Colors and timing are in `src/Root.tsx`.
+The giant cookie drops and lands at 0.6 seconds, with a squash-and-stretch
+bounce, a 0.35-second damped screen shake, and flying crumbs. At 1.5 seconds
+it begins shrinking into the lower-right accent as the company name appears.
+The tagline follows at 3.1 seconds; the final card holds through 6 seconds.
+Colors and timing are in `src/Root.tsx`.
